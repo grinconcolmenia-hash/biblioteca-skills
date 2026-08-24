@@ -1,13 +1,13 @@
 # Catálogo — biblioteca-skills
 
-Skills de regalo de COLMEN IA: se comparten gratis, sin condiciones, en los
-correos de prospección. Cada una es un archivo de texto plano (`SKILL.md`)
-que funciona pegado directamente en Claude o en Codex, o instalado como
-skill si el destinatario ya usa ese flujo.
+Skills de regalo de COLMEN IA: se comparten gratis, sin condiciones. Cada
+una es un archivo de texto plano (`SKILL.md`) que funciona pegado
+directamente en Claude o en Codex, o instalado como skill si prefieres ese
+flujo.
 
 | Skill | Qué hace | Línea a la que sirve | Estado |
 |---|---|---|---|
-| [`process-mapper`](process-mapper/SKILL.md) | Diagnostica un proceso de negocio: dónde se pierde tiempo (esperas, reprocesos, traspasos) y qué rediseñar o automatizar primero. | Desarrollo Agéntico y Capacitaciones (Diana, toque 2) | Publicada |
+| [`process-mapper`](process-mapper/SKILL.md) | Diagnostica un proceso de negocio: dónde se pierde tiempo (esperas, reprocesos, traspasos) y qué rediseñar o automatizar primero. | Desarrollo Agéntico, Capacitaciones a la Medida | Publicada |
 | `medidor-de-adopcion-ia` | Pendiente — mide qué tan a fondo un equipo usa la IA que ya tiene pagada. | Capacitaciones a la Medida | Por escribir |
 | `auditor-de-web` | Pendiente — audita una web propia y devuelve sus fallas concretas. | Web Express | Por escribir |
 | `parrilla-en-una-hora` | Pendiente — arma una parrilla de contenido básica en una hora. | Motor de Contenido | Por escribir |
